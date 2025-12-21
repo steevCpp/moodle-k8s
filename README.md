@@ -81,6 +81,15 @@ server: https://192.168.1.124:9345
 token: K107d9c2f590b3a10c6a1bd03e5ba2a431af0a3cda6b0270614d568921e9e746dd5::server:1e31961f57df49a3c03f9e1b51548fbf
 ```
 
+```
+systemctl start rke2-agent.service
+```
+- Suivi des logs
+<img width="942" height="567" alt="image" src="https://github.com/user-attachments/assets/353ac38e-65b1-4e7b-9177-f92f650b4f4c" />
+
+- On Vérifie bien que le node rke2node s'est bien connecter au cluser
+<img width="690" height="77" alt="Capture d’écran 2025-12-21 100429" src="https://github.com/user-attachments/assets/0e8648c8-e490-406c-8c62-f760bb3e8f89" />
+
 
 ## déploiement du service 
 
