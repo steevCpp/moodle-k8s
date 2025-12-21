@@ -100,4 +100,10 @@ systemctl start rke2-agent.service
 ## déploiement du service 
 
 
-- Source: https://docs.rke2.io/install/quickstart
+- Source:
+  
+  https://docs.rke2.io/install/quickstart
+
+  https://www.youtube.com/watch?v=CVyBlwYYHDQ&list=WL&index=28&t=14556s
+
+  https://www.youtube.com/watch?v=GAKttTUTWeQ&t=136s
