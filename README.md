@@ -139,10 +139,12 @@ C'est canal qui est installé comme cni par default, nous allons mettre à la pl
 
 # 4 Suppression de l'infra
 
-- Source:
+- Liens:
   
   https://docs.rke2.io/install/quickstart
 
   https://www.youtube.com/watch?v=CVyBlwYYHDQ&list=WL&index=28&t=14556s
 
   https://www.youtube.com/watch?v=GAKttTUTWeQ&t=136s
+
+  https://bitnami.com/stacks?stack=helm
