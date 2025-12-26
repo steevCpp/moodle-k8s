@@ -127,11 +127,14 @@ helm ls --all-namespaces
 ## Configuration cni Cilium
 C'est canal qui est installé comme cni par default, nous allons mettre à la place Cilium pour générer le trafic dans le cluster.
 
+## API Gateway traefik
+
+- api gateway traefik: https://doc.traefik.io/traefik/expose/kubernetes/
+
 
 ## Service Moodle 
 
 
-- api gateway traefik: https://doc.traefik.io/traefik/expose/kubernetes/
   
 ## Installation du Dashboard
 
